@@ -27,9 +27,6 @@
 <p align="center">
   <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" style="filter: invert(1);" /></a>
 
-  "42" style="filter: invert(1);" /></a>
-  <a href="https://docker.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="42" height="42" style="filter: invert(1);" /></a>
-</p>
 
 ---
 

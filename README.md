@@ -32,12 +32,12 @@
 
 <h2>📊 Statistiques GitHub</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yakolacoco&show_icons=true&locale=en" alt="Yakolacoco Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yakolacoco&show_icons=true&locale=en&layout=compact" alt="Top Langages de Yakolacoco" />
-</p>
+ <img src="https://github-readme-stats.vercel.app/api?username=Yakolacoco&show_icons=true&theme=dark" alt="Yakolacoco Stats" />
+<br />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yakolacoco&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Langages de Yakolacoco" />
 
----
+  
+  ---
 
 <h2>📫 Où me trouver ?</h2>
 <p align="center">

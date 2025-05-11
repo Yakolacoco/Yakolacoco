@@ -12,16 +12,7 @@
    <a href="https://developer.mozilla.org/en/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" style="filter: invert(1);" /></a>
 </p>
 
-### 🛠 Développement Backend
-<p align="center">
-  <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42" style="filter: invert(1);" /></a>
-  <a href="https://www.php.net/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="42" height="42" style="filter: invert(1);" /></a>
-</p>
 
-### 🗄️ Gestion de Base de Données
-<p align="center">
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" style="filter: invert(1);" /></a>
-</p>
 
 ### 🎨 Outils de Design
 <p align="center">

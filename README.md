@@ -15,7 +15,8 @@
 ### 🛠 Développement Backend
 <p align="center">
   <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" style="filter: invert(1);" /></a>
-  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="42" height="42" style="filter: invert(1);" /></a>
+  <a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" style="filter: invert(1);" /></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="42" height="42" style="filter: invert(1);" /></a>
   <a href="https://go.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="42" height="42" style="filter: invert(1);" /></a>
 </p>
 
@@ -50,3 +51,4 @@
 <p align="center">
   🚀 Toujours en quête de nouveaux défis et projets ! N'hésitez pas à me contacter !
 </p>
+
